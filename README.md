@@ -5,17 +5,17 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">self-taught programmer from Russia</h3>
 <div id="badges" align="center">
-  <a href="discordapp.com/users/937370717429841941" target="_blank">
+  <a target="_blank" href="https://discordapp.com/users/937370717429841941">
   <img src="https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="https://t.me/Furn1ch" target="_blank">
+  <a target="_blank" href="https://t.me/Furn1ch" >
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.codewars.com/users/Furnich" target="_blank">
+  <a target="_blank" href="https://www.codewars.com/users/Furnich">
   <img src="https://img.shields.io/badge/Codewars-darkred?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
   <br>
-  <a href="https://www.codewars.com/users/Furnich" target="_blank">
+  <a target="_blank" href="https://www.codewars.com/users/Furnich">
   <img src="https://www.codewars.com/users/Furnich/badges/large" alt="Codewars Badge">
   </a>
 </div>
