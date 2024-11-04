@@ -29,6 +29,8 @@
 
 - 🤝 I’m looking for help with [Discord Music Bot](https://github.com/Furnich/Music-Discord-Bot_NOT-finished)
 
+- 💻 i'm writing now backend-part Booking Hotels
+
 - 👨‍💻 All of my projects are available on my github :)
 
 <h3 align="left">Languages and Tools:</h3>
