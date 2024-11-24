@@ -29,7 +29,7 @@
 
 - 🤝 I’m looking for help with [Discord Music Bot](https://github.com/Furnich/Music-Discord-Bot_NOT-finished)
 
-- 💻 i'm writing now backend-part Booking Hotels
+- 💻 i'm writing now [Backend-part Booking Hotels](https://github.com/Rerotsu/Booking-Hotels-Backend)
 
 - 👨‍💻 All of my projects are available on my github :)
 
