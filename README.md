@@ -33,6 +33,8 @@
 
 - 👨‍💻 All of my projects are available on my github :)
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66b7d6a6b64402e0525edea5?variant=dark&roadmaps=python%2Cbackend" alt="roadmap.sh"/></a>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
