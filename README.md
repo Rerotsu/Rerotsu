@@ -25,7 +25,7 @@
 
 - 👨 i'm 18 y.o.
 
-- 🌱 I’m currently learning **Python and his Freameworks(FastAPI,Django,Flask)**
+- 🌱 I’m currently learning **Python and his Freameworks(FastAPI)**
 
 - 🤝 I’m looking for help with [Discord Music Bot](https://github.com/Furnich/Music-Discord-Bot_NOT-finished)
 
