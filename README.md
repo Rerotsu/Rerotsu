@@ -11,7 +11,7 @@
   <a target="_blank" href="https://t.me/Furn1ch" >
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a target="_blank" href="https://www.codewars.com/users/Furnich">
+  <a target="_blank" href="https://www.codewars.com/users/Rerotsu">
   <img src="https://img.shields.io/badge/Codewars-darkred?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
   <br>
