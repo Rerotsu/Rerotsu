@@ -16,7 +16,7 @@
   </a>
   <br>
   <a target="_blank" href="https://www.codewars.com/users/Rerotsu">
-  <img src="https://www.codewars.com/users/Furnich/badges/large" alt="Codewars Badge">
+  <img src="https://www.codewars.com/users/Rerotsu/badges/large" alt="Codewars Badge">
   </a>
 </div>
 
