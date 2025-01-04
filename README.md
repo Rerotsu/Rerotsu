@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Codewars-darkred?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
   </a>
   <br>
-  <a target="_blank" href="https://www.codewars.com/users/Furnich">
+  <a target="_blank" href="https://www.codewars.com/users/Rerotsu">
   <img src="https://www.codewars.com/users/Furnich/badges/large" alt="Codewars Badge">
   </a>
 </div>
