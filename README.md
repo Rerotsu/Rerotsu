@@ -10,22 +10,7 @@
   </a>
   <a target="_blank" href="https://t.me/Furn1ch" >
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a target="_blank" href="https://www.codewars.com/users/Rerotsu">
-  <img src="https://img.shields.io/badge/Codewars-darkred?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars Badge"/>
-  </a>
-  <br>
-  <a target="_blank" href="https://www.codewars.com/users/Rerotsu">
-  <img src="https://www.codewars.com/users/Rerotsu/badges/large" alt="Codewars Badge">
-  </a>
 </div>
-
-
-<h3 align="left"> About me</h3>
-
-- 👨 i'm 18 y.o.
-
-- 💻 i'm Backend Python dev (FastAPI)
 
 
 <h3 align="left">Languages and Tools:</h3>
